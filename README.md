@@ -1,10 +1,10 @@
 ### Hi, I'm Joe
-I am currently a Computer Science and Engineering student the J.B. Speed School of Engineering at the University of Louisville.
+I am currently a Computer Science and Engineering student at the University of Louisville. J.B. Speed School of Engineering.
 
 ## Repositories
-My repositories are all exploratory side projects or config and macro files I use on GNU/Linux and Windows.
+My repositories are all exploratory side projects, config, or macro files I use on GNU/Linux and Windows.
 
-If you see something that interests you, do reach out.
+If you see something that interests you, please reach out.
 
 <!--
 Here are some ideas to get you started:
